@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>detailing table</title>
+      <h1>detailing table of company</h1>
+   </head>
+  
+   
+	<body>
+	<form>
+	 
+        <div>
+	 	    <label for="from where"> from:</label><br>
+        <input type="text" from where=from>
+        </div>
+        <div>
+        <label for="from to">to:</label><br>
+        <input data type="text" from to=to>
+        </div>
+        <label for="vehicle">vehicle number:</label><br>
+        <input data type="text" vehicle=vehicle number>
+        <div>
+        <label for="id"> fright:</label><br>
+        <input type="text" ide=fright>
+        </div><div>
+        <label for="jas"> advance:</label><br>
+        <input type="text" from jas=advance>
+        </div><div>
+        <label for="wan"> balance:</label><br>
+        <input type="text" wan=balance>
+        </div><div>
+        <label for="th"> paid:</label><br>
+        <input type="text" th=paid>
+        </div>
+        <div>
+         <input type="submit" value="Submit">
+         </div>
+    </form>
+
+	</body>
+	</html>
