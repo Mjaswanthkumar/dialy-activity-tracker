@@ -1,0 +1,47 @@
+<DOCTYPE html>
+<html>
+
+   <head>
+      <title>detailing table</title>
+      <h1>detailing table of company</h1>
+   </head>
+  
+   <body>
+    <table style="width:200%">
+      <table border = "1">
+
+  <tr>
+    <th>From</th>
+    <th>to</th>
+    <th>vehicle numbers</th>
+    <th>fright</th>
+    <th>advance</th>
+    <th>balance</th>
+    <th>paid</th>
+  </tr>
+  <tr>
+    <td>21/02/2020</td>
+    <td>21/03/2020</td>
+    <td>AP16AN0162</td>
+    <th>working</th>
+    <th>15000</th>
+    <th>50000</th>
+    <th>no</th>
+  </tr>
+  <tr>
+    <td>25/04/2020</td>
+    <td>25/05/2020</td>
+    <td>AP16AN0985</td>
+    <th>working</th>
+    <th>25000</th>
+    <th>700000</th>
+    <th>no</th>
+  </tr>
+
+
+
+
+
+</table>
+   </body>
+</html>
